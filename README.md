@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0923-3sum-with-multiplicity](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0923-3sum-with-multiplicity](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 ## Sorting
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0923-3sum-with-multiplicity](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0923-3sum-with-multiplicity](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 ## Quickselect
 |  |
 | ------- |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0923-3sum-with-multiplicity](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
