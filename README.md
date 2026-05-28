@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Stack
 |  |
 | ------- |
