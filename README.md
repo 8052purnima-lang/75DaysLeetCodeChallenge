@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0923-3sum-with-multiplicity](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
+| [0969-pancake-sorting](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Hash Table
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0923-3sum-with-multiplicity](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
+| [0969-pancake-sorting](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0923-3sum-with-multiplicity](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
+| [0969-pancake-sorting](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0969-pancake-sorting](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 ## Dynamic Programming
 |  |
 | ------- |
