@@ -318,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
