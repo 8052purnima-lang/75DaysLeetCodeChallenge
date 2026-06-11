@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3689-maximum-total-subarray-value-i](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0969-pancake-sorting](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
+| [3689-maximum-total-subarray-value-i](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 ## Dynamic Programming
 |  |
 | ------- |
