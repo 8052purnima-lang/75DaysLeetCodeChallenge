@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 ## Sliding Window
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0595-big-countries) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1757-recyclable-and-low-fat-products](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1757-recyclable-and-low-fat-products) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
