@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [3343-count-number-of-balanced-permutations](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3343-count-number-of-balanced-permutations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
+| [3343-count-number-of-balanced-permutations](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3343-count-number-of-balanced-permutations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3343-count-number-of-balanced-permutations](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3343-count-number-of-balanced-permutations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -337,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3343-count-number-of-balanced-permutations](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3343-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
