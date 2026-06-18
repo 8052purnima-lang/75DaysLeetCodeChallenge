@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
@@ -351,4 +353,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
+| [0301-remove-invalid-parentheses](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
