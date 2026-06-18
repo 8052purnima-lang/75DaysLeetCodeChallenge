@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 ## Linked List
 |  |
@@ -344,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3343-count-number-of-balanced-permutations](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3343-count-number-of-balanced-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
