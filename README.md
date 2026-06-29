@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [3343-count-number-of-balanced-permutations](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3343-count-number-of-balanced-permutations) |
 ## Sliding Window
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
