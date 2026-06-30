@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0969-pancake-sorting](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3689-maximum-total-subarray-value-i](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Indexed Tree
 |  |
 | ------- |
