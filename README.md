@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3689-maximum-total-subarray-value-i](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0994-rotting-oranges](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -393,4 +397,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0301-remove-invalid-parentheses](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
