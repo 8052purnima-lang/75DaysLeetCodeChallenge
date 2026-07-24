@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Union-Find
 |  |
 | ------- |
