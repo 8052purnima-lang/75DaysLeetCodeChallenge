@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0994-rotting-oranges](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Linked List
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
