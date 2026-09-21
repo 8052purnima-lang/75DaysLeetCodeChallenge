@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
