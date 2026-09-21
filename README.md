@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -419,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/8052purnima-lang/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
